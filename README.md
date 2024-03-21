@@ -1,4 +1,4 @@
-### ELEC0088 Software for Network and Services Design (SNS) - 2022/23
+### ML-powered Weather Prediction Chat-bot built for Software for Network and Services Design (SNS) module - 2022/23
 This is a ML-driven chatbot designed for educational purposes. The task of the bot is to answer simple questions regarding weather predictions with a use of a machine learning model. The user asks a pre-defined question, the client app deconstructs the question, sends a TCP-based request to the server, and the server responds with a future weather prediction based on its pre-trained neural network which in this case is a bidirectional long short-term memory neural network. 
 
 The project is organized as follows:
